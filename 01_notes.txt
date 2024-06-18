@@ -1,0 +1,11 @@
+1. Data Structure : It is a way of organizing and storing data in a computer so that it can be accessed and used efficiently.
+2. Alogrithm : It is a set of step-by-step instructions to solve a given problem or achieve a specific goal.
+3. Arrays : It is a data structure which stores the collection of homogeneous items.homogeneous means items of same type
+         It is a linear data structure.
+         It stores data in contigous memory allocation.contigous means consecutives block of memory allocation.
+         array is a 0-based indexing bcoz index starts from 0.
+
+4. Size of Operation : If we want to know the size of array then use sizeof(arrayname) it will give the size of array with multiply of datatype bytes. for eg. arr1 = {1,2,3,4} of sizeof(arr1) = 16 ( 4(size) x 4(bytes) ).
+
+5. Length of array : length of arr1 = sizeof(arr1)/sizeof(arr[0]); leangth means how many element are present inside my array.
+6. For each loop syntax : for(int element : arr1){} it will traverse all element inside that array.
